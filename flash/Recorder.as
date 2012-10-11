@@ -53,7 +53,7 @@ package
 		protected var sound:Sound;
 		protected var channel:SoundChannel;
 		protected var recordingStartTime = 0;
-		protected static var sampleRate = 44.1;
+		protected static var sampleRate = 8;
 		
 		protected function record():void
 		{
